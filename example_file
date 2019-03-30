@@ -1,0 +1,11 @@
+package hng-repo
+
+import hng;
+
+public class HNg{
+ public static void main(string[] args){
+ 
+ 
+ }
+
+}
