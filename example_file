@@ -5,7 +5,7 @@ import hng;
 public class HNg{
  public static void main(string[] args){
  
- 
+ System.out.println("Hello World");
  }
 
 }
